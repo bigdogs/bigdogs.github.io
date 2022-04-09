@@ -5,3 +5,4 @@
 - [环境配置](./env/readme.md)
   - [Windows](./env/windows.md)
   - [MacOS](./env/mac.md)
+  - [Rust](./env/rust.md)
