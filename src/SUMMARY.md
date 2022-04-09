@@ -1,3 +1,8 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+[首页](./README.md)
+
+# 环境配置
+
+- [Windows](./env/windows.md)
+- [MacOS](./env/mac.md)

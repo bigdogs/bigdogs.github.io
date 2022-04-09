@@ -1,6 +1,6 @@
 [book]
 authors = ["ergou"]
-language = "en"
+language = "cn"
 multilingual = false
 src = "src"
-title = "Notes"
+title = "笔记本"

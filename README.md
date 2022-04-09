@@ -8,5 +8,5 @@ update book to github
 - push dis to master branch
 
   ```shell
-  git push origin `git subtree split --prefix dist master`:master --force
+  git push origin `git subtree split --prefix dist --onto origin/master`:master --force
   ```
