@@ -1,1 +1,1 @@
-MdBook is not support Chinese search, https://github.com/rust-lang/mdBook/issues/1081
+[MdBook is not support search for Chinese](https://github.com/rust-lang/mdBook/issues/1081), oh my poor English!

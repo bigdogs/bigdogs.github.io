@@ -1,4 +1,4 @@
-# 必须安装的软件
+# The software list
 
 - homebrew
-- 大小写
+- vscode
