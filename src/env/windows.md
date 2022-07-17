@@ -15,7 +15,13 @@
   which   2.20             main   2022-05-18 15:42:26
   ```
 
-* [process explor](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)
+* ~~[process explor]~~(https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer): find out what files are opened, what dlls are loaded?..
+
+* [process hacker](https://processhacker.sourceforge.io/)
+* [debug view](https://docs.microsoft.com/en-us/sysinternals/downloads/debugview): monitor debug output
+* [PeInternals](https://www.andreybazhan.com/index.html)
+* [Symbol Explorer](https://www.andreybazhan.com/symexp.html): pdb symbols
+
 * using `vscode` + `clangd` instead of `vs2022` or mirosoft c++ extension
   * vscode: `clangd: Download Languague Server`
   * vs2022: [Clang Power Tool](https://clangpowertools.com/) to generate `compile_commands.json`
