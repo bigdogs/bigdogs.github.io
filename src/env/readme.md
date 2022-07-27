@@ -12,7 +12,7 @@
 
 ## python2
 
-macos has remove the support for python2, but it's still required by ida keypatch :(
+macos has been removed the support for python2, but it's still required by my ida keypatch :(
 
 https://www.python.org/downloads/release/python-2718/
 
